@@ -39,8 +39,8 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57205768862"
-  dblp             : "https://dblp.org/pid/171/9051.html"                        # Replace with your actual DBLP profile link
-  pure             : "https://research.edgehill.ac.uk/en/persons/arindam-sikdar" # Your PURE profile link
+  # dblp             : "https://dblp.org/pid/171/9051.html"                        # Replace with your actual DBLP profile link
+  # pure             : "https://research.edgehill.ac.uk/en/persons/arindam-sikdar" # Your PURE profile link
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
