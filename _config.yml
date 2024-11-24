@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Arindam Sikdar / AI Research"
+title                    : "Dr. Arindam Sikdar"
 title_separator          : "-"
 name                     : &name "Dr. Arindam Sikdar"
 description              : &description "Researcher in Artificial Intelligence and Machine Learning"
-url                      : https://arindam-1991.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://arindam-1991.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Arindam-1991/arindam-1991.github.io"
 
@@ -22,13 +22,13 @@ repository               : "Arindam-1991/arindam-1991.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Arindam Sikdar"
+  pronouns         : "he/him"  
+  bio              : "Researcher in Artificial Intelligence, focusing on deep learning, computer vision, and AI. Dedicated to advancing knowledge through academic and industry collaboration"
+  location         : "Liverpool, UK"
+  employer         : "Edge Hill University"
+  uri              : https://arindam-1991.github.io
+  email            : "sikdara@edgehill.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
