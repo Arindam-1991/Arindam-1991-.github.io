@@ -21,7 +21,7 @@ repository               : "Arindam-1991/arindam-1991.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Arindam Sikdar"
   pronouns         : # "he/him"  
   bio              : "Researcher in Artificial Intelligence, focusing on deep learning, computer vision, and AI. Dedicated to advancing knowledge through academic and industry collaboration"
